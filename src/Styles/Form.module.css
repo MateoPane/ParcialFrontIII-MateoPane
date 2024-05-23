@@ -1,0 +1,9 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  width: 800px;
+}
+.button {
+  background-color: aqua;
+}
